@@ -1,4 +1,4 @@
-# Graph-Data-Bases
+# Neo4j-Cypher-Py2Neo
 
 When i was first used Neo4j in 2017 there no so much of stuff integrated int Neo4j. But now it seems preety cool compared to other graph databases.
 
